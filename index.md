@@ -1,4 +1,5 @@
 # Hector Pacheco's Portfolio
+I am a computer science student at California State University, graduating in 2028. I am passionate about coding and aspire to pursue a career as a software engineer. 
 
 ## Favorite CPSC 120L Labs
 Lab 2, part 1
